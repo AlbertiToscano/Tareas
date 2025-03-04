@@ -1,6 +1,6 @@
 package com.generation;
 
-import java.util.Scanner;
+import java.util.Scanner; //importé la clase Scanner
 
 /**
  * Programa que simula el juego de piedra, papel o tijeras, recibe un imput por
